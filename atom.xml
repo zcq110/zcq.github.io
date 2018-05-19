@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="zcq110.github.io/"/>
-  <updated>2018-05-19T08:50:26.111Z</updated>
+  <updated>2018-05-19T08:53:12.052Z</updated>
   <id>zcq110.github.io/</id>
   
   <author>
@@ -17,20 +17,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>Hexo</title>
     <link href="zcq110.github.io/2018/05/19/Hexo%20%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BAbolg/"/>
     <id>zcq110.github.io/2018/05/19/Hexo 搭建个人bolg/</id>
     <published>2018-05-19T08:46:44.155Z</published>
-    <updated>2018-05-19T08:50:26.111Z</updated>
+    <updated>2018-05-19T08:53:12.052Z</updated>
     
-    <content type="html"><![CDATA[<hr><h2 id="title：Hexo"><a href="#title：Hexo" class="headerlink" title="title：Hexo"></a>title：Hexo</h2><h1 id="Hexo-Github-搭建个人博客"><a href="#Hexo-Github-搭建个人博客" class="headerlink" title="Hexo + Github 搭建个人博客"></a>Hexo + Github 搭建个人博客</h1><hr><h3 id="Frist"><a href="#Frist" class="headerlink" title="Frist:"></a>Frist:</h3><ul><li>创建GitHub账号，并且创建Repository</li><li>安装git和Node.js</li><li>安装Hexo：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-cli -g</span><br></pre></td></tr></table></figure></li></ul><h3 id="Second"><a href="#Second" class="headerlink" title="Second:"></a>Second:</h3><ul><li>初始化项目 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init newfilename</span><br><span class="line">$ cd newfilename</span><br><span class="line">$ npm install</span><br><span class="line">$ npm install hexo-delopyer-git --save</span><br></pre></td></tr></table></figure></li></ul><h3 id="Thrid"><a href="#Thrid" class="headerlink" title="Thrid:"></a>Thrid:</h3><ul><li>配置_config.yml<h3 id="Fourth"><a href="#Fourth" class="headerlink" title="Fourth:"></a>Fourth:</h3><ul><li>测试以及部署<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo g //生成静态文件</span><br><span class="line">hexo s //生成本地预览</span><br><span class="line">hexo d //部署并提交代码至GitHub中</span><br></pre></td></tr></table></figure></li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="Hexo-Github-搭建个人博客"><a href="#Hexo-Github-搭建个人博客" class="headerlink" title="Hexo + Github 搭建个人博客"></a>Hexo + Github 搭建个人博客</h1><hr><h3 id="Frist"><a href="#Frist" class="headerlink" title="Frist:"></a>Frist:</h3><ul><li>创建GitHub账号，并且创建Repository</li><li>安装git和Node.js</li><li>安装Hexo：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-cli -g</span><br></pre></td></tr></table></figure></li></ul><h3 id="Second"><a href="#Second" class="headerlink" title="Second:"></a>Second:</h3><ul><li>初始化项目 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init newfilename</span><br><span class="line">$ cd newfilename</span><br><span class="line">$ npm install</span><br><span class="line">$ npm install hexo-delopyer-git --save</span><br></pre></td></tr></table></figure></li></ul><h3 id="Thrid"><a href="#Thrid" class="headerlink" title="Thrid:"></a>Thrid:</h3><ul><li>配置_config.yml<h3 id="Fourth"><a href="#Fourth" class="headerlink" title="Fourth:"></a>Fourth:</h3><ul><li>测试以及部署<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo g //生成静态文件</span><br><span class="line">hexo s //生成本地预览</span><br><span class="line">hexo d //部署并提交代码至GitHub中</span><br></pre></td></tr></table></figure></li></ul></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;hr&gt;
-&lt;h2 id=&quot;title：Hexo&quot;&gt;&lt;a href=&quot;#title：Hexo&quot; class=&quot;headerlink&quot; title=&quot;title：Hexo&quot;&gt;&lt;/a&gt;title：Hexo&lt;/h2&gt;&lt;h1 id=&quot;Hexo-Github-搭建个人博客&quot;&gt;&lt;a href=
+        &lt;h1 id=&quot;Hexo-Github-搭建个人博客&quot;&gt;&lt;a href=&quot;#Hexo-Github-搭建个人博客&quot; class=&quot;headerlink&quot; title=&quot;Hexo + Github 搭建个人博客&quot;&gt;&lt;/a&gt;Hexo + Github 搭建个人博客&lt;/h1&gt;&lt;hr&gt;
+
       
     
     </summary>
